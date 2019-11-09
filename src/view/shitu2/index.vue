@@ -9,7 +9,7 @@
 export default {
   data() {
     return {
-      data1: this.$contants.table,
+      data1: this.$constants.table,
       defaultProps: {
         children: 'children',
         label: 'label'
